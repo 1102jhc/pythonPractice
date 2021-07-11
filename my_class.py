@@ -41,3 +41,5 @@ class Unit:
 marine1 = Unit("마린", 40, 5)
 marine2 = Unit("마린", 40, 5)
 tank = Unit("탱크", 150, 35)
+
+# __init__ 파이썬에서 사용하는 생성자
