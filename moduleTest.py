@@ -29,3 +29,4 @@
 from my_module import price_soldier as price
 price(5) # price_soldier 의 값
 
+
